@@ -66,7 +66,7 @@ var pref_allDataListsCollapsed = false;
 var pref_showChildren = true;
 
 var oHighlightColor = pref_backgroundHighlightColor;
-var so_host = "http://slayeroffice.com/tools/modi/v2.0/";
+var so_host = "https://rodgf.github.io/";
 var so_lbl = new Array();
 
 function so_init() {
